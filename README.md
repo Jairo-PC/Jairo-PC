@@ -27,9 +27,9 @@ Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo con
 
 ## 📫 Cómo Contactarme
 
-- LinkedIn: [NombreApellido](https://www.linkedin.com/in/usuario/)
+- LinkedIn: [Jairo Perez Cordova](https://www.linkedin.com/in/usuario/)
 - Sitio Web: [Jairo Perez Cordova](https://jairo-perez-cordova.web.app/)
-- Email: [correo electrónico]
+- Email: [perezcordovajairo13ley@gmail.com]
 
-¡Gracias por visitar mi perfil de GitHub! Estoy abierto a nuevas oportunidades laborales y proyectos interesantes. No dude en ponerse en contacto conmigo si tiene alguna pregunta o inquietud.
+¡Gracias por visitar mi perfil de GitHub! Desarrollamos lo que imaginamos. No dude en ponerse en contacto conmigo si tiene alguna pregunta o inquietud.
 
