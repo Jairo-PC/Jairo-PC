@@ -1,7 +1,7 @@
 # Hola, soy Jairo Perez Cordova
 
 [![Linkedin Badge](https://img.shields.io/badge/-NombreApellido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usuario/)](https://www.linkedin.com/in/usuario/)
-[![Sitio Web](https://img.shields.io/badge/-JairoPerezCordova.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jairo-perez-cordova.web.app/)](https://jairo-perez-cordova.web.app/)
+[![Sitio Web](https://img.shields.io/badge/-JairoPerezCordova.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://https://jairoperezcordova.vercel.app/)](https://jairoperezcordova.vercel.app/)
 
 
 Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo conocimiento en Laravel, enfocado en desarrollo web.
@@ -28,7 +28,7 @@ Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo con
 ## 📫 Cómo Contactarme
 
 - LinkedIn: [Jairo Perez Cordova](https://www.linkedin.com/in/usuario/)
-- Sitio Web: [Jairo Perez Cordova](https://jairo-perez-cordova.web.app/)
+- Sitio Web: [Jairo Perez Cordova](https://jairoperezcordova.vercel.app/)
 - Email: [perezcordovajairo13ley@gmail.com]
 
 ¡Gracias por visitar mi perfil de GitHub! Desarrollamos lo que imaginamos. No dude en ponerse en contacto conmigo si tiene alguna pregunta o inquietud.
