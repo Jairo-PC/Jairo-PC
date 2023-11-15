@@ -1,7 +1,7 @@
 # Hola, soy Jairo Perez Cordova
 
-[![Linkedin Badge](https://img.shields.io/badge/-NombreApellido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usuario/)](https://www.linkedin.com/in/usuario/)
-[![Sitio Web](https://img.shields.io/badge/-JairoPerezCordova.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://https://jairoperezcordova.vercel.app/)](https://jairoperezcordova.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-NombreApellido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usuario/)](linkedin.com/in/jairo-brayan-perez-cordova-844972241)
+[![Sitio Web](https://img.shields.io/badge/-jairoperezcordova.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://https://jairoperezcordova.vercel.app/)](https://jairoperezcordova.vercel.app/)
 
 
 Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo conocimiento en Laravel, enfocado en desarrollo web.
