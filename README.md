@@ -4,7 +4,7 @@
 [![Sitio Web](https://img.shields.io/badge/-jairoperezcordova.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://https://jairoperezcordova.vercel.app/)](https://jairoperezcordova.vercel.app/)
 
 
-Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo conocimiento en Laravel, enfocado en desarrollo web.
+Soy egresado de la carrera de Ingenieria de Software con Inteligencia Artificial con un (1) año de experiencia, tengo conocimiento en Php, Html, Css, Js y MySql enfocado en desarrollo web.
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -21,14 +21,14 @@ Soy un estudiante de desarrollo de software con 1 año de experiencia, tengo con
 
 ## 🚀 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/usuario/proyecto1) - [Descripción breve del proyecto]
+- [Proyecto 1](https://jairoperezcordova.vercel.app/) - [Portafolio personal]
 - [Proyecto 2](https://github.com/usuario/proyecto2) - [Descripción breve del proyecto]
 - [Proyecto 3](https://github.com/usuario/proyecto3) - [Descripción breve del proyecto]
 
 ## 📫 Cómo Contactarme
 
-- LinkedIn: [Jairo Perez Cordova](https://www.linkedin.com/in/usuario/)
-- Sitio Web: [Jairo Perez Cordova](https://jairoperezcordova.vercel.app/)
+- LinkedIn: [Jairo Perez Cordova](https://www.linkedin.com/in/jairo-brayan-perez-cordova-844972241/)
+- Sitio Web: [En desarrollo](https://jairoperezcordova.vercel.app/)
 - Email: [perezcordovajairo13ley@gmail.com]
 
 ¡Gracias por visitar mi perfil de GitHub! Desarrollamos lo que imaginamos. No dude en ponerse en contacto conmigo si tiene alguna pregunta o inquietud.
